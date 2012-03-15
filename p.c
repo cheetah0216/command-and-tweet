@@ -1,3 +1,6 @@
+// p.c --from Pike and Kernighan's 'The Unix Programming Environment' with a few modifications, most notably removing the call to fflush from the print function.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
